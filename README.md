@@ -31,13 +31,10 @@ sudo apt update && sudo apt -y upgrade
 ```sh
 sudo apt install -y python3-pip
 ```
--  Check path (result for me: /home/omni/.local)
-```sh
-python3 -m site --user-base
-```
+
 - Update path, append /bin to the above path. Replace omni with your username.
 ```sh
-export PATH="/home/omni/.local/bin:$PATH"
+export PATH="$HOME/.local/bin:$PATH"
 ```
 -  Permanently add to the path
 ```sh
