@@ -69,6 +69,9 @@ sudo chown -R omni:omni ~/.commune
 ```sh
 comx key list
 ```
+- Communex is up and running and all is good =)
+
+<br/><br/>
 
 ### 9 For the people that would like to know what they are installing.
 
