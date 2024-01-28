@@ -1,7 +1,7 @@
 # Setup Communex on Windows 10 Pro
 
 ### 1. Setup WSL and Ubuntu
-- **Right** click the Start menu and open Windows Powershell (admin).
+- click the Start menu and open CMD as admin.
 - First set the default version of WSL.
 ```sh
 wsl --set-default-version 2
