@@ -21,14 +21,14 @@ wsl --install -d Ubuntu-22.04
 - We could continue directly from here but it is good to check if all is working, so let's close the Powershell window.
 
 ### 2. Start Ubuntu and update
-- Windows- Click on the Start menu and start Ubuntu, there should now be a shortcut for Ubuntu in the Start menu.
-- Linux- Start your Ubuntu and open up a terminal (or just connect via SSH)
+- Windows - Click on the Start menu and start Ubuntu, there should now be a shortcut for Ubuntu in the Start menu.
+- Linux - Start your Ubuntu and open up a terminal (or just connect via SSH)
 - Let's start with updating and upgrading our installation.
 
 ```sh
 sudo apt update && sudo apt -y upgrade
 ```
-*If you see a message regarding **libcuda.so**, you can ignore this. It is just a warning.*
+*Windows WSL - If you see a message regarding **libcuda.so**, you can ignore this. It is just a warning.*
 
 ### 3. Install pip
 - Install pip
