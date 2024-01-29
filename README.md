@@ -21,7 +21,8 @@ wsl --install -d Ubuntu-22.04
 - We could continue directly from here but it is good to check if all is working, so let's close the Powershell window.
 
 ### 2. Start Ubuntu and update
-- Click on the Start menu and start Ubuntu, there should now be a shortcut for Ubuntu in the Start menu.
+- Windows- Click on the Start menu and start Ubuntu, there should now be a shortcut for Ubuntu in the Start menu.
+- Linux- Start your Ubuntu and open up a terminal (or just connect via SSH)
 - Let's start with updating and upgrading our installation.
 
 ```sh
