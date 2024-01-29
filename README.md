@@ -1,4 +1,7 @@
-# Setup Communex on Windows 10 Pro
+# Setup Communex on Windows 10 Pro / Ubuntu 22.04
+- If you are running Ubuntu, skip to step 2.
+
+<br>
 
 ### 1. Setup WSL and Ubuntu
 - click the Start menu and open CMD as admin.
