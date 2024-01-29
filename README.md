@@ -59,7 +59,7 @@ pip install communex
 ### 5. Create your key  (if you do not have one)
 - Create the key and replace ThisIsMYKey with the name you want for your key
 ```sh
-comx create key ThisIsMyKey 
+comx key create ThisIsMyKey 
 ```
 
 ### 6. If you did not have Commune installed and created a new key (step 5), ensure you have the correct permissions on your Commune folder.
