@@ -47,7 +47,7 @@ nano ~/.bashrc
 <br/>
 
 ### 4. Install Communex
-- Start pipenv
+- Installing Communex, one quick pip install.
 ```sh
 pip install communex
 ```
